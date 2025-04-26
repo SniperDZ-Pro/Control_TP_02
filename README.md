@@ -1,5 +1,5 @@
 
-### Challenge 1 Warm-up Navigation & File Ops
+### Challenge 1 Filesystem Navigation & File Basics
 
 1. From your home, create the directory tree `PracticeExam/{scripts,logs,configs}`.  
 2. Inside `configs`, create an empty hidden file named **.draft** and display it.  
