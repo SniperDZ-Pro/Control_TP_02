@@ -26,8 +26,7 @@ You’ve written a script `backup.sh` in `scripts`.
 A shared research area must enforce group collaboration while preventing permission creep.
 
 1. Create a directory **ResearchData** under `PracticeExam` (create it if it does not exist) and move **draft.pdf** inside it.
-2. Use **one** octal `chmod` command to set the directory’s mode to (`rwxrw-r-x`).
-3. Inside **ResearchData**, apply octal mode  (`rw-r-----`) to **draft.pdf** with `chmod`.
-4. Display the results.
+2. Inside **ResearchData**, apply octal mode  (`rw-r-----`) to **draft.pdf** with `chmod`.
+3. Display the results.
 
 
