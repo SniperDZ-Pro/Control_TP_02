@@ -7,7 +7,7 @@
    ```
    Mastering Linux permissions is essential.
    ```  
-4. Display the absolute path of `notes.txt` without leaving the current directory.
+4. Show results.
 
 
 
