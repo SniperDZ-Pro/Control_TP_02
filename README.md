@@ -16,7 +16,7 @@
 You’ve written a script `backup.sh` in `scripts`.
 
 1. Grant yourself (the file’s owner) **read, write, execute**; give the *group* **read & execute**; give *others* **no rights** – *using the symbolic form* of `chmod`.  
-2. Display the new permissions with `ls -l` and explain the meaning of each part of the mode string.  
+2. Display the new permissions and explain the meaning of each part of the mode string.  
 3. Attempt to run the script as another unprivileged user and show the resulting error.
 
 
